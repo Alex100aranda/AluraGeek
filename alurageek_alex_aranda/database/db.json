@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "480d",
+      "name": "Memoria USB",
+      "price": "60",
+      "image": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00081012726142L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "9424",
+      "name": "Disco Duro externo",
+      "price": "100",
+      "image": "https://i5.walmartimages.com/asr/7fe3bba3-4877-4a1c-a49e-00bb761d497e.9da577ede45c985094c0ae8166ff7385.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "b60e",
+      "name": "Mouse inalambrico",
+      "price": "80",
+      "image": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00061560404475L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "c0a0",
+      "name": "Audifonos Gamer",
+      "price": "120",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT8JhaQdSeM6C-GrbJOGUWpZbbsJqblr4SQ468QGT_HXPi6zchHbrpkKT2_6zcDtmU3hR8Bld6m3Nujl5J44K0_lBWPbhuT9UnXaelAvWhAMagvjU9Dc8zQ3PPjJdPMEX-rBUu9YgkPTQ&usqp=CAc"
+    },
+    {
+      "id": "1d9d",
+      "name": "Mouse Pad",
+      "price": "70",
+      "image": "https://m.media-amazon.com/images/I/51QAm8TtjCS.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+      "id": "6554",
+      "name": "Reloj Smart ",
+      "price": "180",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwaJNkcuciXifEwdJu30g9UwQY98f2fkYinUIdBba0Lz8iQFLF3F6VV18wgMXdhrgbhMvKUeV4S4CoD_0V70qHwo2idwNfLgDEAqSML_39rDs8P4YfrrefWZ8&usqp=CAE"
+    }
+  ]
+}
